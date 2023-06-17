@@ -4,7 +4,7 @@ python 3
 
 ## Installation
 
-1. CD CSVtoEXCEL
+1. CD Blog-App
 
 2. Create venv
 ```
@@ -31,8 +31,8 @@ env/Scripts/activate
 pip install -r requirements.txt
 ```
 
-5. Run script:
+5. Run Project:
 
 ```
-python3 csv_to_excel.py
+python manage.py runserver
 ```
